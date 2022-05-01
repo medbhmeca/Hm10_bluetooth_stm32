@@ -1,0 +1,1 @@
+test_uart2_hm10\startup_stm32l073xx.o: startup_stm32l073xx.s
